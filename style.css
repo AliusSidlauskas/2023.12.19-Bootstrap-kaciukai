@@ -1,0 +1,23 @@
+body {
+    width: 1400px;
+    margin: auto;
+}
+
+.carousel-inner {
+    height: 300px;
+}
+
+.list-group .list-group-item{
+    background-color: black;
+    color: white;
+    object-fit: cover;
+}
+
+.btn-new {
+    bottom: 20px;
+    right: 20px;
+    position: fixed;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
